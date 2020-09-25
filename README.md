@@ -1,4 +1,6 @@
-# spiketools
+# SpikeTools
+
+## spike-package.exe
 This is designed to be super easy to use, no installation needed. And I restricted where the compiled code (.mpy) can go (only to /projects directory) to avoid accidents by kids or students.
 
 To use, just download the `spike-package.exe` file and run it under command prompt:
